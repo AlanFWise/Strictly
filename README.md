@@ -2,6 +2,7 @@
 
 This repository contains the data and code necessary for my project analysing Strictly Come Dancing data. 
 
+
 THE DATA
 
 The file Strictly_Judge_Data.csv contains information on every dance performed in Strictly Come Dancing up until series 18. The data consists of the following columns,
@@ -23,6 +24,7 @@ running_order: the order in which the couple danced in the live show
 score: Multiple columns of scores from each judge. If its a score of 0 then the judge was absent during that show.
 
 total: The sum of scores from the judges
+
 
 Source: The data for the first 15 series of the contest can be found here https://github.com/four-tens/strictly-come-dancing-results/blob/master/results.csv
 The data for series 16, 17 and 18 was scraped from the following sources on wikipedia
